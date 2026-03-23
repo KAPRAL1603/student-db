@@ -1,4 +1,4 @@
-# 🎓 Student Management Console App
+# 🎓 Student Management Console App (Java + JDBC + H2)
 
 Консольное Java-приложение для управления студентами с использованием базы данных.
 
