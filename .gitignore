@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# OS
+.DS_Store
+
+# H2 database files
+student-db-data/
+
+# Logs
+*.log
+
+# Java
+out/
